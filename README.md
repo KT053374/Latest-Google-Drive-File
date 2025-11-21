@@ -2,13 +2,21 @@
 Latest Google Drive File is a back-end plugin that was developed for WordPress websites.  It may work on other hosting site, but not guaranteed.  This allows you to serve the most recent file from a Google Drive folder at a stable URL. Perfect for always showing the latest PDF, image, or other file in viewers like PDF Embedder, img, or video.
 
 === Latest Google Drive File ===
+
 Contributors: Ken Thompson
+
 Tags: google drive, pdf, media, embed, api, files, newsletter
+
 Requires at least: 5.0
+
 Tested up to: 6.7
+
 Requires PHP: 7.4
+
 Stable tag: 5.0.0
+
 License: GPLv2 or later
+
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 Serve the most recent file from a Google Drive folder at a stable URL. Perfect for always showing the latest newsletter PDF, image, or other file in viewers like PDF Embedder, img, or video.
