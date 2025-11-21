@@ -1,0 +1,148 @@
+.dln-settings-wrap {
+    max-width: 1100px;
+}
+
+.dln-settings-wrap h1 {
+    margin-bottom: 16px;
+}
+
+.dln-settings-intro {
+    margin-bottom: 20px;
+    padding: 12px 16px;
+    border-left: 4px solid #2271b1;
+    background: #f0f6fc;
+    border-radius: 4px;
+}
+
+.dln-settings-intro h2 {
+    margin: 0 0 6px;
+    font-size: 1rem;
+}
+
+.dln-settings-intro p {
+    margin: 4px 0;
+}
+
+.dln-settings-intro ol {
+    margin: 6px 0 4px 20px;
+    padding-left: 16px;
+}
+
+.dln-settings-intro li {
+    margin: 2px 0;
+}
+
+.dln-settings-section {
+    margin-top: 24px;
+    margin-bottom: 16px;
+}
+
+.dln-settings-section h2 {
+    margin-bottom: 8px;
+    font-size: 1.2rem;
+}
+
+.dln-settings-section > p.description {
+    margin-top: 0;
+    margin-bottom: 12px;
+}
+
+.dln-folders-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 16px;
+    margin-top: 8px;
+}
+
+.dln-folder-card {
+    background: #fff;
+    border-radius: 8px;
+    border: 1px solid #dcdcdc;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.04);
+    padding: 12px 14px;
+}
+
+.dln-folder-card-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 8px;
+}
+
+.dln-folder-card-header-title {
+    font-weight: 600;
+    font-size: 0.95rem;
+}
+
+.dln-folder-card-header-badge {
+    font-size: 11px;
+    padding: 2px 6px;
+    border-radius: 999px;
+    background: #f0f0f0;
+    color: #555;
+}
+
+.dln-folder-inner-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.dln-folder-inner-table th {
+    text-align: left;
+    padding: 4px 0 0;
+    width: 120px;
+    font-weight: 500;
+    font-size: 12px;
+    color: #555;
+    vertical-align: top;
+}
+
+.dln-folder-inner-table td {
+    padding: 0 0 6px;
+}
+
+.dln-folder-inner-table input[type="text"],
+.dln-folder-inner-table input[type="number"],
+.dln-folder-inner-table select,
+.dln-folder-inner-table textarea {
+    width: 100%;
+    max-width: 100%;
+    box-sizing: border-box;
+}
+
+.dln-field-help {
+    margin: 2px 0 0;
+    font-size: 11px;
+    color: #666;
+}
+
+.dln-example-block {
+    margin-top: 6px;
+    padding: 6px 8px;
+    background: #f8fafc;
+    border-radius: 4px;
+    border: 1px dashed #ccd0d4;
+}
+
+.dln-example-label {
+    display: block;
+    font-size: 11px;
+    color: #555;
+    margin-bottom: 2px;
+}
+
+.dln-example-code {
+    font-family: Menlo, Consolas, monospace;
+    font-size: 11px;
+    word-break: break-all;
+}
+
+.dln-divider {
+    border-top: 1px solid #dcdcdc;
+    margin: 20px 0;
+}
+
+.dln-small-label {
+    font-size: 11px;
+    color: #666;
+}
